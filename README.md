@@ -1,5 +1,3 @@
-# 🌐 Multi-Language Profile | Çok Dilli Profil
-
 [🇹🇷 Türkçe](#-türkçe) | [🇬🇧 English](#-english)
 
 ---
