@@ -32,8 +32,6 @@
 
 ---
 
-😄 **Pronouns:** He/Him  
-⚡ **Fun Fact:** I enjoy experimenting with different programming languages and tools.  
 🎯 **Goal:** To become proficient in **at least five programming languages**.  
 
 ---
@@ -84,8 +82,6 @@
 
 ---
 
-😄 **Hitap Şekli:** He/Him  
-⚡ **Eğlenceli Bir Gerçek:** Farklı programlama dillerini denemekten keyif alırım.  
 🎯 **Hedefim:** En az **5 programlama dilinde** yetkinlik kazanmak.  
 
 ---
