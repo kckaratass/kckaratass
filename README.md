@@ -1,25 +1,26 @@
 # 👋 Hi, I'm **Kadir Can Karataş**
 
 ### 🚀 Computer Engineering Student & Aspiring AI Engineer
-I am a **Computer Engineering** student at Bolu Abant Izzet Baysal University, dedicated to bridging the gap between traditional software engineering and intelligent systems. Currently, I am evolving my focus from the **.NET ecosystem** toward **Data Science**, **Machine Learning**, and **Deep Learning**.
+I am a **Computer Engineering** student at Bolu Abant Izzet Baysal University, bridging the gap between traditional software engineering and intelligent systems. Currently, I am evolving my focus from the **.NET ecosystem** toward **Data Science**, **Machine Learning**, and **AI-driven solutions**.
 
 ---
 
-### 🧠 Focus Areas
-- 🤖 **Artificial Intelligence:** Mastering **Python** for building predictive models and AI-driven automation.
-- 🏗️ **Software Architecture:** Crafting robust backend solutions using **C# .NET**.
-- 📊 **Data Science:** Transforming raw data into actionable insights through statistical analysis.
-- 🎨 **User-Centric Design:** Focusing on high-quality **UX/UI** and web accessibility standards.
+### 🛠️ Tech Stack & Skills
 
----
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🛠️ Tech Stack & Tools
+### AI & Data Science Libraries
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend & Web** | ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Data Science** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
+### Backend & Web Technologies
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
