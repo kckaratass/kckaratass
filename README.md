@@ -31,13 +31,18 @@ I am currently working towards becoming a versatile engineer proficient in multi
 ### 📬 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/kadir-can-karatas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:kadircan.karatass@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/kadir-can-karatas-539801290" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kadircankaratass@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### ✨ GitHub Stats
 
-![Kadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadir-can-karatas&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-can-karatas&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadir-can-karatas&show_icons=true&theme=radical" alt="Kadir's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadir-can-karatas&layout=compact&theme=radical" alt="Top Langs" />
+</p>
