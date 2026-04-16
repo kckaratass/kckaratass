@@ -37,12 +37,20 @@ I am currently working towards becoming a versatile engineer proficient in multi
 
 ---
 
+---
+
 ### ✨ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kckaratass&show_icons=true&theme=radical" alt="Kadir's GitHub Stats" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=kckaratass&show_icons=true&theme=radical&hide_border=false" width="400" alt="Kadir's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckaratass&layout=compact&theme=radical&hide_border=false" width="300" alt="Top Langs" />
+    </td>
+  </tr>
+</table>s
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kckaratass&layout=compact&theme=radical" alt="Top Langs" />
 </p>
